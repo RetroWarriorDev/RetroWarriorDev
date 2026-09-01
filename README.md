@@ -1,4 +1,25 @@
-## Hi there 👋
+# Hi there 👋
+
+I am RetroWarriorDev and this is my GitHub account.
+
+I am a power user in technology, internet, networking, etc. I also do sometimes experiments and coding.
+
+---
+
+<details>
+<summary>Social media</summary>
+
+Platform|Name|Link
+---|---|---
+**GitHub**|`RetroWarriorDev`|[Profile](https://github.com/RetroWarriorDev)
+**Fluxer**|`RetroWarriorDev Community`|[Community](https://fluxer.gg/rfC8CVlb)
+**Discord**|`RetroWarriorDev Community`|[Server](https://discord.gg/n2S7DDmTvF)
+**Mastodon**|`@retrowarriordev@mastodon.social`|[Profile](https://mastodon.social/@retrowarriordev)
+**Website**|`retrowarriordev.github.io`|[Website](https://retrowarriordev.github.io)
+**Email**|`retrowarriordev@gmail.com`|[Email](mailto:retrowarriordev@gmail.com)
+**Email**|`retrowarriordev@tutamail.com`|[Email](mailto:retrowarriordev@tutamail.com)
+
+</details>
 
 <!--
 **RetroWarriorDev/RetroWarriorDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
