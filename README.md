@@ -17,6 +17,7 @@ Platform|Name|Link
 **Mastodon**|`@retrowarriordev@mastodon.social`|[Profile](https://mastodon.social/@retrowarriordev)
 **Bluesky**|`retrowarriordev.bsky.social`|[Profile](https://bsky.app/profile/retrowarriordev.bsky.social)
 **Discord**|`RetroWarriorDev Community`|[Server](https://discord.gg/n2S7DDmTvF)
+**Reddit**|`RetroWarriorDev`|[Profile](https://www.reddit.com/user/RetroWarriorDev/)
 **Website**|`retrowarriordev.github.io`|[Website](https://retrowarriordev.github.io)
 **YouTube**|`RetroWarriorDev`|[Profile](https://www.youtube.com/channel/UCXqccPwsKLQJosR9erbgaBg)
 **Email**|`retrowarriordev@gmail.com`|[Email](mailto:retrowarriordev@gmail.com)
