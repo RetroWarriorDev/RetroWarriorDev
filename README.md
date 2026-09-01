@@ -18,8 +18,10 @@ Platform|Name|Link
 **Bluesky**|`retrowarriordev.bsky.social`|[Profile](https://bsky.app/profile/retrowarriordev.bsky.social)
 **Discord**|`RetroWarriorDev Community`|[Server](https://discord.gg/n2S7DDmTvF)
 **Website**|`retrowarriordev.github.io`|[Website](https://retrowarriordev.github.io)
+**YouTube**|`RetroWarriorDev`|[Profile](https://www.youtube.com/channel/UCXqccPwsKLQJosR9erbgaBg)
 **Email**|`retrowarriordev@gmail.com`|[Email](mailto:retrowarriordev@gmail.com)
 **Email**|`retrowarriordev@tutamail.com`|[Email](mailto:retrowarriordev@tutamail.com)
+**Roblox**|`RetroWarriorDev`|[Profile](https://roblox.com/users/11548917424/profile)
 
 </details>
 
