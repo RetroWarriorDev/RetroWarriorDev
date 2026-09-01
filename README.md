@@ -12,9 +12,11 @@ I am a power user in technology, internet, networking, etc. I also do sometimes 
 Platform|Name|Link
 ---|---|---
 **GitHub**|`RetroWarriorDev`|[Profile](https://github.com/RetroWarriorDev)
+**Matrix**|`#retrowarriordev:mozilla.org`|[Space](https://matrix.to/#/#retrowarriordev:mozilla.org)
 **Fluxer**|`RetroWarriorDev Community`|[Community](https://fluxer.gg/rfC8CVlb)
-**Discord**|`RetroWarriorDev Community`|[Server](https://discord.gg/n2S7DDmTvF)
 **Mastodon**|`@retrowarriordev@mastodon.social`|[Profile](https://mastodon.social/@retrowarriordev)
+**Bluesky**|`retrowarriordev.bsky.social`|[Profile](https://bsky.app/profile/retrowarriordev.bsky.social)
+**Discord**|`RetroWarriorDev Community`|[Server](https://discord.gg/n2S7DDmTvF)
 **Website**|`retrowarriordev.github.io`|[Website](https://retrowarriordev.github.io)
 **Email**|`retrowarriordev@gmail.com`|[Email](mailto:retrowarriordev@gmail.com)
 **Email**|`retrowarriordev@tutamail.com`|[Email](mailto:retrowarriordev@tutamail.com)
