@@ -22,6 +22,7 @@ Platform|Name|Link
 **YouTube**|`RetroWarriorDev`|[Profile](https://www.youtube.com/channel/UCXqccPwsKLQJosR9erbgaBg)
 **Email**|`retrowarriordev@gmail.com`|[Email](mailto:retrowarriordev@gmail.com)
 **Email**|`retrowarriordev@tutamail.com`|[Email](mailto:retrowarriordev@tutamail.com)
+**Xbox**|`RetroWarriorDev`|[Profile](https://www.xbox.com/en-US/play/user/RetroWarriorDev)
 **Roblox**|`RetroWarriorDev`|[Profile](https://roblox.com/users/11548917424/profile)
 
 </details>
