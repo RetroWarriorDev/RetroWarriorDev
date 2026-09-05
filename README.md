@@ -24,6 +24,7 @@ Platform|Name|Link
 **Email**|`retrowarriordev@tutamail.com`|[Email](mailto:retrowarriordev@tutamail.com)
 **Email**|`retrowarriordev@proton.me`|[Email](mailto:retrowarriordev@proton.me)
 **Email**|`retrowarriordev@duck.com`|[Email](mailto:retrowarriordev@duck.com)
+**Email**|`retrowarriordev@outlook.com`|[Email](mailto:retrowarriordev@outlook.com)
 **PGP**|`RetroWarriorDev`|[View raw](https://github.com/RetroWarriorDev/RetroWarriorDev/raw/refs/heads/main/rwd_pub.asc)
 **Epic Games**|`RetroWarriorDev`|[Profile](https://store.epicgames.com/u/1c1f1a38c08046fba9848812c2c20044)
 **Xbox**|`RetroWarriorDev`|[Profile](https://www.xbox.com/en-US/play/user/RetroWarriorDev)
