@@ -2,7 +2,7 @@
 
 I am RetroWarriorDev and this is my GitHub account.
 
-I am a power user in technology, internet, networking, etc. I also do sometimes experiments and coding, as well as some gaming.
+I am an advanced power user in technology, internet, networking, debugging, etc. I also do sometimes experiments and coding, as well as some gaming. I also work in decentralization, encryption, anonymity, privacy, security, etc., as well as replacing big-tech with self-hosting solutions, and/or European alternatives.
 
 ---
 
