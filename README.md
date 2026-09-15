@@ -39,7 +39,15 @@ Platform|Name|Link
 <details>
 <summary>VPN</summary>
 
-**Mullvad VPN:** https://mullvad.net/en
+- **Mullvad VPN:** https://mullvad.net/en
+- **Windscribe:** https://windscribe.com
+</details>
+
+<details>
+<summary>Anonymous Networks</summary>
+
+- **Tor:** https://www.torproject.org
+- **I2P:** https://i2p.net/en/
 </details>
 
 <!--
