@@ -2,7 +2,7 @@
 
 I am RetroWarriorDev and this is my GitHub account.
 
-I am an advanced power user in technology, internet, networking, debugging, etc. I also do sometimes experiments and coding, as well as some gaming. I also work in decentralization, encryption, anonymity, privacy, security, internet routing, latency, speeds, packet loss, jitter, etc., as well as replacing big-tech with self-hosting solutions, and/or European alternatives.
+I am an advanced power user in technology, internet, networking, debugging, etc. I also do sometimes experiments and coding, as well as some gaming. I also work in decentralization, encryption, anonymity, privacy, security, internet routing, latency, speeds, packet loss, jitter, etc., as well as replacing big-tech with self-hosting solutions, and/or alternatives.
 
 If you wish to contact me, you have some options on the Social media. You can choose email too! For email, it is recommended Tutanota. If you can't contact Tutanota email addresses, you can reach me on the other email options too, as well as other non-email options too like Matrix (Recommended). You can use encryptions like `age` (Recommended) or PGP for everything, not just email addresses.
 
