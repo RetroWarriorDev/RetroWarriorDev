@@ -15,7 +15,7 @@ Platform|Name|Link
 ---|---|---
 **GitHub**|`RetroWarriorDev`|[Profile](https://github.com/RetroWarriorDev)
 **Matrix**|`#retrowarriordev:mozilla.org`|[Space](https://matrix.to/#/#retrowarriordev:mozilla.org)
-**Fluxer**|`RetroWarriorDev Community`|[Community](https://fluxer.gg/rfC8CVlb)
+**Fluxer**|`RetroWarriorDev Community`|[Community](https://fluxer.gg/HwlFYOLD)
 **Mastodon**|`@retrowarriordev@mastodon.social`|[Profile](https://mastodon.social/@retrowarriordev)
 **Bluesky**|`retrowarriordev.bsky.social`|[Profile](https://bsky.app/profile/retrowarriordev.bsky.social)
 **Discord**|`RetroWarriorDev Community`|[Server](https://discord.gg/n2S7DDmTvF)
