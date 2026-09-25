@@ -31,8 +31,8 @@ Platform|Name|Link
 **PGP**|`RetroWarriorDev`|[View raw](https://github.com/RetroWarriorDev/RetroWarriorDev/raw/refs/heads/main/rwd_pub.asc)
 **Codeberg**|`RetroWarriorDev`|[Profile](https://codeberg.org/RetroWarriorDev)
 **Xbox**|`RetroWarriorDev`|[Profile](https://www.xbox.com/en-US/play/user/RetroWarriorDev)
-**Epic Games**|`RetroWarriorDev`|[Profile](https://store.epicgames.com/u/1c1f1a38c08046fba9848812c2c20044)
 **Roblox**|`RetroWarriorDev`|[Profile](https://roblox.com/users/11548917424/profile)
+**Epic Games**|`RetroWarriorDev`|[Profile](https://store.epicgames.com/u/1c1f1a38c08046fba9848812c2c20044)
 
 </details>
 
