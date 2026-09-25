@@ -2,9 +2,9 @@
 
 I am RetroWarriorDev and this is my GitHub account.
 
-I am an advanced power user in technology, internet, networking, debugging, etc. I also do sometimes experiments and coding, as well as some gaming. I also work in decentralization, encryption, anonymity, privacy, security, internet routing, latency, speeds, packet loss, jitter, etc., as well as replacing big-tech with self-hosting solutions, and/or alternatives.
+I am an advanced power user, working in technology, internet, networking, debugging, etc. I also do sometimes experiments and coding, as well as some gaming. I also work in decentralization, encryption, anonymity, privacy, security, internet routing, latency, speeds, packet loss, jitter, etc., as well as replacing big-tech with self-hosting solutions, and/or alternatives.
 
-If you wish to contact me, you have some options on the Social media. You can choose email too! For email, it is recommended Tutanota. If you can't contact Tutanota email addresses, you can reach me on the other email options too, as well as other non-email options too like Matrix (Recommended). You can use encryptions like `age` (Recommended) or PGP for everything, not just email addresses.
+If you wish to contact me, you have some options on the Social media. You can choose email too! For email, it is recommended ProtonMail. If you can't contact ProtonMail email addresses, you can reach me on the other email options too, as well as other non-email options too like Matrix (Recommended). You can use encryptions like `age` (Recommended) and PGP for everything, not just email addresses.
 
 ---
 
@@ -22,16 +22,16 @@ Platform|Name|Link
 **Reddit**|`RetroWarriorDev`|[Profile](https://www.reddit.com/user/RetroWarriorDev/)
 **Website**|`retrowarriordev.github.io`|[Website](https://retrowarriordev.github.io)
 **YouTube**|`RetroWarriorDev`|[Profile](https://www.youtube.com/channel/UCXqccPwsKLQJosR9erbgaBg)
-**Email**|`retrowarriordev@tutamail.com`|[Email](mailto:retrowarriordev@tutamail.com)
 **Email**|`retrowarriordev@proton.me`|[Email](mailto:retrowarriordev@proton.me)
 **Email**|`retrowarriordev@duck.com`|[Email](mailto:retrowarriordev@duck.com)
 **Email**|`retrowarriordev@gmail.com`|[Email](mailto:retrowarriordev@gmail.com)
 **Email**|`retrowarriordev@outlook.com`|[Email](mailto:retrowarriordev@outlook.com)
+**Email**|`retrowarriordev@tutamail.com`|[Email](mailto:retrowarriordev@tutamail.com)
 **`age`**|`RetroWarriorDev`|[View raw](https://github.com/RetroWarriorDev/RetroWarriorDev/raw/refs/heads/main/rwd_age_pub.txt)
 **PGP**|`RetroWarriorDev`|[View raw](https://github.com/RetroWarriorDev/RetroWarriorDev/raw/refs/heads/main/rwd_pub.asc)
 **Codeberg**|`RetroWarriorDev`|[Profile](https://codeberg.org/RetroWarriorDev)
-**Epic Games**|`RetroWarriorDev`|[Profile](https://store.epicgames.com/u/1c1f1a38c08046fba9848812c2c20044)
 **Xbox**|`RetroWarriorDev`|[Profile](https://www.xbox.com/en-US/play/user/RetroWarriorDev)
+**Epic Games**|`RetroWarriorDev`|[Profile](https://store.epicgames.com/u/1c1f1a38c08046fba9848812c2c20044)
 **Roblox**|`RetroWarriorDev`|[Profile](https://roblox.com/users/11548917424/profile)
 
 </details>
@@ -39,7 +39,6 @@ Platform|Name|Link
 <details>
 <summary>VPN</summary>
 
-- **Mullvad VPN:** https://mullvad.net/en
 - **Windscribe:** https://windscribe.com
 </details>
 
