@@ -39,7 +39,7 @@ Platform|Name|Link
 <details>
 <summary>VPN</summary>
 
-- **Windscribe:** https://windscribe.com
+- **Mullvad VPN:** https://mullvad.net/en
 </details>
 
 <details>
