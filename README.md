@@ -2,7 +2,7 @@
 
 I am RetroWarriorDev and this is my GitHub account.
 
-I am an advanced power user, working in technology, internet, networking, debugging, etc. I also do sometimes experiments and coding, as well as some gaming such as Minecraft, Minetest, Roblox, etc. I also work in decentralization, encryption, anonymity, privacy, security, internet routing, latency, speeds, packet loss, jitter, etc., as well as replacing big-tech with self-hosting solutions, and/or alternatives.
+I am an advanced power user, working in technology, internet, networking, debugging, etc. I also do sometimes experiments and coding, as well as some gaming. I also work in decentralization, encryption, anonymity, privacy, security, internet routing, latency, speeds, packet loss, jitter, etc., as well as replacing big-tech with self-hosting solutions, and/or alternatives.
 
 If you wish to contact me, you have some options on the Social media. You can choose email too! For email, it is recommended Tutanota. If you can't contact Tutanota email addresses, you can reach me on the other email options too, as well as other non-email options too like Matrix (Recommended). You can use encryptions like `age` (Recommended) and PGP for everything, not just email addresses.
 
@@ -24,8 +24,8 @@ Platform|Name|Link
 **YouTube**|`RetroWarriorDev`|[Profile](https://www.youtube.com/channel/UCXqccPwsKLQJosR9erbgaBg)
 **Email**|`retrowarriordev@tutamail.com`|[Email](mailto:retrowarriordev@tutamail.com)
 **Email**|`retrowarriordev@gmail.com`|[Email](mailto:retrowarriordev@gmail.com)
-**Email**|`retrowarriordev@outlook.com`|[Email](mailto:retrowarriordev@outlook.com)
-**Email**|`retrowarriordev@duck.com`|[Email](mailto:retrowarriordev@duck.com)
+**`[DEAD]` Email**|`retrowarriordev@outlook.com`|[Email](mailto:retrowarriordev@outlook.com)
+**`[DEAD]` Email**|`retrowarriordev@duck.com`|[Email](mailto:retrowarriordev@duck.com)
 **`[DEAD]` Email**|`retrowarriordev@proton.me`|[Email](mailto:retrowarriordev@proton.me)
 **`age`**|`RetroWarriorDev`|[View raw](https://github.com/RetroWarriorDev/RetroWarriorDev/raw/refs/heads/main/rwd_age_pub.txt)
 **PGP**|`RetroWarriorDev`|[View raw](https://github.com/RetroWarriorDev/RetroWarriorDev/raw/refs/heads/main/rwd_pub.asc)
@@ -40,7 +40,6 @@ Platform|Name|Link
 <summary>VPN</summary>
 
 - **Mullvad VPN:** https://mullvad.net/en
-- **IVPN:** https://www.ivpn.net/en
 </details>
 
 <details>
